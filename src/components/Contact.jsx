@@ -28,8 +28,8 @@ function Contact() {
               <FaInstagram color='red' size={50} />
             </a>
 
-            <a  href="https://www.linkedin.com/in/ankitpushpjivi" target='_blank' rel='noopener noreferer'>
-            <MdEmail color='linear-gradient(90deg, rgba(245,189,45,1) 0%, rgba(255,0,181,1) 100%)' size={50} />
+            <a href="mailto:ankitsaini5.in@gmail.com" target='_blank' rel='noopener noreferrer'>
+            <MdEmail color='steelblue' size={50} />
             </a>
 
           </div>

@@ -21,9 +21,9 @@ function Projects() {
   <img src= {proj1} layout="fill" objectfit="cover" alt="" />
 
   <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-    <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
+    <span className='text-2xl font-bold text-white tracking-wider'>Portfolio</span>
     <div className='pt-8 text-center'>
-      <a href="/">
+      <a href="https://github.com/iAnkit-1/ankitpushpjivi" target='_blank'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
       </a>
     </div>
@@ -36,9 +36,9 @@ function Projects() {
   <img src= {proj2} layout="fill" objectfit="cover" alt="" />
 
   <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-    <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
+    <span className='text-2xl font-bold text-white tracking-wider'>BG Changer</span>
     <div className='pt-8 text-center'>
-      <a href="/">
+      <a href="https://github.com/iAnkit-1/Background-Changer-React" target='_blank'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
       </a>
     </div>
@@ -51,9 +51,9 @@ function Projects() {
   <img src= {proj3} layout="fill" objectfit="cover" alt="" />
 
   <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-    <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
+    <span className='text-2xl font-bold text-white tracking-wider'>Nextjs Music Course</span>
     <div className='pt-8 text-center'>
-      <a href="/">
+      <a href="https://github.com/iAnkit-1/music.school" target='_blank'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
       </a>
     </div>
@@ -66,9 +66,9 @@ function Projects() {
   <img src= {proj4} layout="fill" objectfit="cover" alt="" />
 
   <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-    <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
+    <span className='text-2xl font-bold text-white tracking-wider'>QR Code</span>
     <div className='pt-8 text-center'>
-      <a href="/">
+      <a href="https://generateqr-puce.vercel.app/" target='_blank'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
       </a>
     </div>
@@ -81,9 +81,9 @@ function Projects() {
   <img src= {proj5} layout="fill" objectfit="cover" alt="" />
 
   <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-    <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
+    <span className='text-2xl font-bold text-white tracking-wider'>Netflix Clone</span>
     <div className='pt-8 text-center'>
-      <a href="/">
+      <a href="https://github.com/iAnkit-1/Netfix-Clone" target='_blank'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
       </a>
     </div>
@@ -96,9 +96,9 @@ function Projects() {
   <img src= {proj6} layout="fill" objectfit="cover" alt="" />
 
   <div className='opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center'>
-    <span className='text-2xl font-bold text-white tracking-wider'>Project</span>
+    <span className='text-2xl font-bold text-white tracking-wider'>Coming Soon...</span>
     <div className='pt-8 text-center'>
-      <a href="/">
+      <a href="https://github.com/iAnkit-1/GenQ-" target='_blank'>
       <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
       </a>
     </div>

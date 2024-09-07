@@ -1,5 +1,6 @@
 import React from 'react'
 import heroimage from '../assets/ankit2.jpg'
+import resume from '../assets/resume.pdf'
 import { TypeAnimation } from 'react-type-animation'
 function Hero() {
   return (
@@ -31,7 +32,7 @@ function Hero() {
         My name is Ankit Pushpjivi and I have 6+ months experience in web development.
     </p>
     <div className='my-8'>
-        <a href="/" className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white'>Download Resume</a>
+        <a href={resume} target='_blank' className='px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white'>Download Resume</a>
         <a href="#contact" className='px-6 py-3 w-full rounded-xl mr-4 border border-gray-400 hover:bg-gradient-to-br from-orange-500 to-pink-500 text-white hover:border-none'>Contact</a>
     </div>
     </div>
